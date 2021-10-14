@@ -1,1 +1,1 @@
-# Simple website using python (flask module)
+Simple website using python (flask module)
